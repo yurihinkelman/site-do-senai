@@ -1,0 +1,28 @@
+body{
+background-color: black;
+
+}
+h1{
+color: green;
+background-color: yellow;
+text-align: center;
+
+}
+p{
+color: blue;
+background-color: yellow;
+
+}
+p.contatos{
+color: blue;
+background-color: #f0ede7;
+
+
+}
+#endereço{
+color: black;
+background-color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
